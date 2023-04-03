@@ -1,0 +1,3 @@
+change speed at which ally moves to player. 
+
+(I think this mechanic is broken. Ally teleports directly to player instantly in code from github.)

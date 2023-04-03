@@ -1,0 +1,1 @@
+Moved minimap to top left of the screen
